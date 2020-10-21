@@ -1,1 +1,5 @@
+def hello():
+    print ("hello edabit.com")
+    return 
 
+hello()
